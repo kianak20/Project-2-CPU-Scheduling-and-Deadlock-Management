@@ -1,0 +1,14 @@
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/bin/Debug/net9.0/CS Project 2
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/bin/Debug/net9.0/CS Project 2.deps.json
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/bin/Debug/net9.0/CS Project 2.runtimeconfig.json
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/bin/Debug/net9.0/CS Project 2.dll
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/bin/Debug/net9.0/CS Project 2.pdb
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/CS Project 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/CS Project 2.AssemblyInfoInputs.cache
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/CS Project 2.AssemblyInfo.cs
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/CS Project 2.csproj.CoreCompileInputs.cache
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/CS Project 2.dll
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/refint/CS Project 2.dll
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/CS Project 2.pdb
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/CS Project 2.genruntimeconfig.cache
+/Users/kianaknight/Documents/Project 2 CS/CS Project 2/obj/Debug/net9.0/ref/CS Project 2.dll
